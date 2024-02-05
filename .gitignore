@@ -56,7 +56,11 @@ Temporary Items
 
 ### In this project ###
 .SWOT_L2_HR_RiverSP
-
+*.dbf
+*.shp
+*.shx
+*.prj
+.shp.xml
 
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos
